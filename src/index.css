@@ -1,0 +1,22 @@
+
+/*
+
+COLORS :
+
+GREEN : #1da69f
+PURPLE : #651d7c
+BLACK : #000000
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient( rgba(0,0,0,.3) , rgba(0,0,0,0.5) ) , url('../public/images/bg.jpg') center / cover no-repeat !important;
+    min-height: 100vh !important;
+  }
